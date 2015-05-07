@@ -1,5 +1,5 @@
 # Strategy for containerization
-![frontend_docker](https://cloud.githubusercontent.com/assets/48740/7514835/fb919d28-f486-11e4-9dfc-aa9fe343fb8c.png)
+![frontend_docker](https://cloud.githubusercontent.com/assets/48740/7523505/d090d86a-f4c1-11e4-9ca0-e76fdf5bab99.png)
 
 The strategy is based on the principle of
 [radial](https://github.com/radial/docs) topology. The concepts from radial
